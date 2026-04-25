@@ -7,6 +7,10 @@
 
 **Lien de l'application :** [https://saa-s-pharmacie.vercel.app/](https://saa-s-pharmacie.vercel.app/)
 
+> **🧪 Envie de tester ?** Vous n'avez pas besoin de posséder une pharmacie ! Sentez-vous libre de créer un compte avec votre adresse e-mail personnelle pour explorer toutes les fonctionnalités du SaaS en conditions réelles.
+> 
+> **🧪 Want to try it out?** You don't need to own a pharmacy! Feel free to create an account with your personal email address to test drive all the features of the SaaS.
+
 ---
 
 ## 🇫🇷 Version Française
@@ -50,5 +54,3 @@ PharmaSaaS is a modern management platform built to help pharmacies manage medic
 * **Frontend**: Next.js 15 (App Router), Tailwind CSS
 * **Backend**: Supabase (PostgreSQL, Auth)
 * **Deployment**: Vercel
-
----
