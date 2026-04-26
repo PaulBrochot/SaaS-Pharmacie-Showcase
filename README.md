@@ -27,7 +27,7 @@
 
 | 📦 Inventaire & Matériel | 📄 Facturation Premium A4 |
 |---|---|
-| ![Inventaire](Inventaire_materiels.png) | ![Facture](Facturation.jpg) |
+| ![Inventaire](Inventaire_materiels.png) | ![Facture](Appercu_facture.png) |
 
 ---
 
