@@ -21,13 +21,17 @@
 
 ## 📸 Aperçu de l'interface / UI Preview
 
-| 📊 Dashboard & Statistiques | 👥 Gestion des Patients |
-|---|---|
-| ![Dashboard](Dashboard.png) | ![Patients](liste_patients.png) |
+### 📊 Dashboard & Statistiques
+![Dashboard](Dashboard.png) 
 
-| 📦 Inventaire & Matériel | 📄 Facturation Premium A4 |
-|---|---|
-| ![Inventaire](Inventaire_materiels.png) | ![Facture](Appercu_facture.png) |
+### 👥 Gestion des Patients
+![Patients](liste_patients.png)
+
+### 📦 Inventaire & Matériel
+![Inventaire](Inventaire_materiels.png)
+
+### 📄 Facturation Premium A4
+![Facture](Appercu_facture.png)
 
 ---
 
