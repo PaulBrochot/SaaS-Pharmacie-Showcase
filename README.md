@@ -23,11 +23,11 @@
 
 | 📊 Dashboard & Statistiques | 👥 Gestion des Patients |
 |---|---|
-| ![Dashboard](Dashboard.jpg) | ![Patients](Patients.jpg) |
+| ![Dashboard](Dashboard.png) | ![Patients](liste_patients.png) |
 
 | 📦 Inventaire & Matériel | 📄 Facturation Premium A4 |
 |---|---|
-| ![Inventaire](Inventaire.jpg) | ![Facture](Facturation.jpg) |
+| ![Inventaire](Inventaire_materiels.png) | ![Facture](Facturation.jpg) |
 
 ---
 
