@@ -12,25 +12,27 @@
 ### 🧪 Test & Status / Test et État du projet
 
 > **FR : Envie de tester ?** Vous n'avez pas besoin de posséder une pharmacie ! Sentez-vous libre de créer un compte avec votre adresse e-mail personnelle pour explorer toutes les fonctionnalités en conditions réelles.
+> 
 > **🚧 Note :** Le projet est actuellement en **cours de développement**. Il s'agit d'un prototype fonctionnel, mais vous pourriez rencontrer quelques bugs mineurs.
 >
 > **EN: Want to try it out?** You don't need to own a pharmacy! Feel free to create an account with your personal email address to test drive all the features of the SaaS.
+> 
 > **🚧 Note:** This project is currently a **work in progress**. It is a functional prototype, but you may encounter some minor bugs.
 
 ---
 
 ## 📸 Aperçu de l'interface / UI Preview
 
-### 📊 Dashboard & Statistiques
+## 📊 Dashboard & Statistiques
 ![Dashboard](Dashboard.png) 
 
-### 👥 Gestion des Patients
+## 👥 Gestion des Patients
 ![Patients](liste_patients.png)
 
-### 📦 Inventaire & Matériel
+## 📦 Inventaire & Matériel
 ![Inventaire](Inventaire_materiels.png)
 
-### 📄 Facturation Premium A4
+## 📄 Facturation Premium A4
 ![Facture](Appercu_facture.png)
 
 ---
